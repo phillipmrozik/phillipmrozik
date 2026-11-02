@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Phillip 👋
 
-<!--
-**phillipmrozik/phillipmrozik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Automation Specialist** based in Mielec, Poland.
 
-Here are some ideas to get you started:
+I've been deep into AI and automation for a long time, and I'm not limited to a handful of things I know how to build. Whatever a company needs, I can design and deliver it: AI agents, chatbots, integrations, lead generation, reporting, document processing and custom systems tailored to the business.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I can also analyze a company's processes, point out what can be automated, and suggest where AI can save time and money, before building anything.
+
+## 🛠 Stack
+n8n • AI Agents • AI Systems • Claude API • OpenAI API • and many other APIs • Webhooks • REST APIs • Google Workspace • JavaScript • Python
+
+## 📂 Projects
+Coming soon. Each project will include a description, workflow diagram and demo.
+
+## 🎓 Education
+- Harvard CS50x
+- Anthropic: courses on building with the Claude API
+- Technical school, programming (matura)
+
+## 📫 Contact
+- Email: mrozikdigital@gmail.com
+- LinkedIn: link in my GitHub profile
