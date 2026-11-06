@@ -15,7 +15,6 @@ Coming soon. Each project will include a description, workflow diagram and demo.
 ## 🎓 Education
 - Harvard CS50x
 - Anthropic: courses on building with the Claude API
-- Technical school, programming (matura)
 
 ## 📫 Contact
 - Email: mrozikdigital@gmail.com
